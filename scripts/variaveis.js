@@ -1,5 +1,9 @@
 let imagemCenario;
 let imagemPersonagem;
+let imagemVida;
+let vida;
+let mapa = [];
+let fita;
 let cenario;
 let somDoJogo;
 let personagem;
