@@ -9,7 +9,7 @@ class TelaInicial {
     }
 
     _imagemDeFundo(){
-        image(imagemTelaInicial, 0, 0, width, height);
+        image(telaInicial, 0, 0, width, height);
     }
 
     _texto(){
